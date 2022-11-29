@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\MIUN\Year two\Metodik\Laborationer\Labb 1\Labb1\Main.cpp(99,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Labb1.vcxproj -> D:\MIUN\Year two\Metodik\Laborationer\Labb 1\Labb1\x64\Debug\Labb1.exe
