@@ -1,0 +1,5 @@
+﻿  shapes.cpp
+D:\MIUN\Year two\Metodik\Laborationer\labb 2\shapes.cpp(47,45): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\MIUN\Year two\Metodik\Laborationer\labb 2\shapes.cpp(47,21): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\MIUN\Year two\Metodik\Laborationer\labb 2\shapes.cpp(74,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  labb 2.vcxproj -> D:\MIUN\Year two\Metodik\Laborationer\labb 2\Debug\labb 2.exe
